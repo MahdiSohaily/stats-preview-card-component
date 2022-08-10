@@ -1,33 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+
   <title>Frontend Mentor | Stats preview card component</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
 </head>
+
 <body>
-
-  Get insights that help your business grow.
-
-  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-  experience, and overall efficiency.
-
-  10k+ companies
-  314 templates
-  12m+ queries
-
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+  <main>
+    <div class="card">
+      <div class="info">
+        <header>
+          <h1>Get <span>insights</span> that help your business grow.</h1>
+        </header>
+        <div class="content">
+          <p>
+            Discover the benefits of data analytics and make better decisions regarding revenue, customer experience,
+            and overall efficiency.
+          </p>
+        </div>
+        <footer>
+          <div>
+            <p class="uppercase tag">10k+</p>
+            <p class="uppercase brand">companies </p>
+          </div>
+          <div>
+            <p class="uppercase tag">314 </p>
+            <p class="uppercase brand">templates </p>
+          </div>
+          <div>
+            <p class="uppercase tag">12m+</p>
+            <p class="uppercase brand">queries</p>
+          </div>
+        </footer>
+      </div>
+      <div class="profile">
+        <picture>
+          <source media="(min-width: 40em)" srcset="./public/images/image-header-desktop.jpg">
+          <img src="./public/images/image-header-mobile.jpg">
+        </picture>
+        <div class="overlay"></div>
+      </div>
+    </div>
+  </main>
 </body>
+
 </html>
