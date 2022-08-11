@@ -205,11 +205,5 @@ footer {
 }
 .profile img {
   mix-blend-mode: multiply;
-}
-
-.overlay {
-  position: absolute;
-  inset: 0;
-  background-color: white;
-  opacity: 0.1;
+  opacity: 75%;
 }
