@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-8nXIM5Vygv)
-- Live Site URL: [Add live site URL here](https://github.com/MahdiSohaily/stats-preview-card-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-8nXIM5Vygv](https://www.frontendmentor.io/solutions/stats-preview-card-component-8nXIM5Vygv)
+- Live Site URL: [https://github.com/MahdiSohaily/stats-preview-card-component](https://github.com/MahdiSohaily/stats-preview-card-component)
 
 ## My process
 
