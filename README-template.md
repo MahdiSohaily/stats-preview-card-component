@@ -24,16 +24,14 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-- Screenshot of the challenge
-![Challenge Screenshot](./design/desktop-preview.jpg)
-- Screenshot of the solution
-![Solution Screenshot](./design/desktop.png)
-- Screenshot of the solution
-![Solution Screenshot](./design/mobile.png)
+
+| Desktop version                              |               Mobile Version                |
+| -------------------------------------------- | :-----------------------------------------: |
+| ![Solution Screenshot](./design/desktop.png) | ![Solution Screenshot](./design/mobile.png) |
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-8nXIM5Vygv)
 - Live Site URL: [Add live site URL here](https://github.com/MahdiSohaily/stats-preview-card-component)
 
 ## My process
